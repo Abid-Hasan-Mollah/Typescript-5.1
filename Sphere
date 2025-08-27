@@ -1,0 +1,6 @@
+const a1:number =25.6;
+
+
+const a:number =(4.0/3)*3.1416*a1*a1*a1; 
+
+console.log("VALOR A PAGAR: R$ " + a.toFixed(2));
