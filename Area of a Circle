@@ -1,0 +1,5 @@
+const a:number =2;
+
+const c:number = 3.1416*a*a;
+
+console.log("X = "+c);
