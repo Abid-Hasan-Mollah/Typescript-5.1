@@ -1,0 +1,9 @@
+const a:string ="Abid Hasan Mollah";
+
+const b:number = 500.00;
+
+const c:number = 1230.30;
+
+const d:number = b+c*0.15;
+
+console.log("NUMBER ="+d.toFixed(2)+"\n");
