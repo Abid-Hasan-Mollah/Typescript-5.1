@@ -1,0 +1,11 @@
+const a:number =2;
+
+const b:number = 4;
+
+const c = 5;
+
+const d = 7;
+
+const e = a*b-c*d;
+
+console.log("DIFERENCA ="+e.toFixed(0));
