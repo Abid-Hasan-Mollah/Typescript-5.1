@@ -1,0 +1,11 @@
+const a1:number =25;
+const a2:number=23.7;
+const a3:number=34;
+
+const b1:number =1;
+const b2:number=2;
+const b3:number=3;
+
+const ans:number = a2*a3+b2*b3;
+
+console.log("VALOR A PAGAR: R$ " + ans.toFixed(2));
