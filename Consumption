@@ -1,0 +1,8 @@
+const a:number =100;
+const b:number=20;
+
+
+let temp:number=a/b;
+
+
+console.log(temp.toFixed(3) + "KL");
