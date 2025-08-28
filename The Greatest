@@ -1,0 +1,13 @@
+const a:number =100;
+const b:number=20;
+const c:number=30;
+
+let temp:number=a;
+
+if(temp<b){
+    temp=b;
+}
+if(temp<c){
+    temp=c;
+}
+console.log(temp + " eh o maior");
