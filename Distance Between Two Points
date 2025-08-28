@@ -1,0 +1,9 @@
+const a:number =100;
+const b:number=20;
+const a1:number =100;
+const b1:number=20;
+
+let temp:number=Math.sqrt(Math.pow((a-a1),2)+Math.pow((b-b1),2));
+
+
+console.log(temp.toFixed(3) + "KL");
